@@ -36,12 +36,12 @@ namespace PhaseEnd_project
                         if (userInput == "yes" || userInput == "y")
                         {
                             Console.WriteLine("Continuing...");
-                            // Add code here to continue with the program
+                            
                         }
                         else
                         {
                             Console.WriteLine("Exiting the program.");
-                            // Add code here to exit the program
+                            
                         }
                         break;
                     case 2:
@@ -55,12 +55,12 @@ namespace PhaseEnd_project
                         if (userInput1 == "yes" || userInput1 == "y")
                         {
                             Console.WriteLine("Continuing...");
-                            // Add code here to continue with the program
+                           
                         }
                         else
                         {
                             Console.WriteLine("Exiting the program.");
-                            // Add code here to exit the program
+                            
                         }
                         break;
                     case 3:
@@ -77,12 +77,12 @@ namespace PhaseEnd_project
                         if (userInput3 == "yes" || userInput3 == "y")
                         {
                             Console.WriteLine("Continuing...");
-                            // Add code here to continue with the program
+                            
                         }
                         else
                         {
                             Console.WriteLine("Exiting the program.");
-                            // Add code here to exit the program
+                            
                         }
                         break;
                     case 4:
@@ -99,12 +99,12 @@ namespace PhaseEnd_project
                         if (userInput4 == "yes" || userInput4 == "y")
                         {
                             Console.WriteLine("Continuing...");
-                            // Add code here to continue with the program
+                            
                         }
                         else
                         {
                             Console.WriteLine("Exiting the program.");
-                            // Add code here to exit the program
+                            
                         }
                         break;
                     case 5:
@@ -117,12 +117,12 @@ namespace PhaseEnd_project
                         if (userInput5 == "yes" || userInput5 == "y")
                         {
                             Console.WriteLine("Continuing...");
-                            // Add code here to continue with the program
+                            
                         }
                         else
                         {
                             Console.WriteLine("Exiting the program.");
-                            // Add code here to exit the program
+                            
                         }
                         break;
                     case 6:
